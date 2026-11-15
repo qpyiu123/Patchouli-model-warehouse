@@ -25,6 +25,7 @@ My_models/
 └── galgame/
     └── Rewrite/
         └── Kagari-v4-rigged.blend 注：使用了VRoidStudio和aigc素材
+        └── Kagari-v9-rigged.blend 注：使用了VRoidStudio和aigc素材
     Alice in Cradle/
     └── 诺艾尔法杖.blend
 
